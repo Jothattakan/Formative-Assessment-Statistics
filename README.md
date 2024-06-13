@@ -20,4 +20,4 @@ Describe, etc.
 Additionally, the analysis includes checking and finding outliers in the "price per sqft" column by plotting a box plot and a histogram to determine the skewness.
 
 ## **Key Findings:**
-Using box plot analysis, we conclude that the IQR (Interquartile Range) method is the best way to remove outliers.
+Using box plot analysis, it can conclude that the IQR (Interquartile Range) method is the best way to remove outliers.
