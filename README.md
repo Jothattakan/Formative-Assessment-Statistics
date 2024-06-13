@@ -1,6 +1,6 @@
 # Formative Assessment Statistics
 
-### *SCOPE*
+### **SCOPE**
 The scope of this assessment is to perform basic EDA on the given dataset 'house_price.csv' and detect outliers using statistical methods such as:
 
 1. Mean and standard deviation Method.
